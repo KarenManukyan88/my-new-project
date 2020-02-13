@@ -13,7 +13,7 @@ class App extends React.Component {
 
   render() {
     if (this.state.loading) {
-      return <div>...loading</div>
+      return <div>...loading...</div>
     }
     return (
       <div>Hello </div>
